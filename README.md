@@ -1,2 +1,2 @@
-# regression_module
+# regression module
 helpfull functions for regression
